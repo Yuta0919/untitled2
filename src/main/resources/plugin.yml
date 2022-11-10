@@ -1,0 +1,4 @@
+name: HardCore
+version: '${project.version}'
+main: javajava.hardcore.HardCore
+api-version: 1.19
